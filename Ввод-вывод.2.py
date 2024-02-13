@@ -10,4 +10,4 @@ a9 = input ()
 a10 = input ()
 a11 = input ()
 
-print (a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, sep='=>')
+print (a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, sep = '=>')
